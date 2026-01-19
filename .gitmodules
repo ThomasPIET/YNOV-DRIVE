@@ -1,0 +1,12 @@
+[submodule "YNOV-DRIVE-AUTH"]
+	path = YNOV-DRIVE-AUTH
+	url = https://github.com/ThomasPIET/YNOV-DRIVE-AUTH.git
+[submodule "YNOV-DRIVE-SMTP"]
+	path = YNOV-DRIVE-SMTP
+	url = https://github.com/ThomasPIET/YNOV-DRIVE-SMTP.git
+[submodule "YNOV-DRIVE-DATA"]
+	path = YNOV-DRIVE-DATA
+	url = https://github.com/ThomasPIET/YNOV-DRIVE-DATA.git
+[submodule "YNOV-DRIVE-FILES"]
+	path = YNOV-DRIVE-FILES
+	url = https://github.com/ThomasPIET/YNOV-DRIVE-FILES.git
